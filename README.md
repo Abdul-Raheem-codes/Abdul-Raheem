@@ -1,18 +1,28 @@
-# Hi I'm Abdul Raheem
+# Abdul Raheem
 
-💻 Frontend Developer  
-⚛️ Currently Learning React  
-🚀 Building Web Projects  
+**Frontend Developer | Learning Backend Development**
+
+Passionate web developer with solid frontend skills, currently expanding into backend development with Node.js and Express.js.
+
 
 ## Skills
+
+### Frontend
 - HTML
 - CSS
 - JavaScript
 - React
 
-## Currently Working On
-- React Projects
-- Improving JavaScript
+### Backend
+- Node.js *(Learning)*
+- Express.js *(Learning)*
 
-## Connect With Me
-GitHub: https://github.com/Abdul-Raheem-codes
+
+## Currently Working On
+- Building REST APIs with Node.js & Express
+- Full Stack JavaScript Projects
+- Deepening JavaScript knowledge
+
+
+## Connect
+[GitHub](https://github.com/Abdul-Raheem-codes)
